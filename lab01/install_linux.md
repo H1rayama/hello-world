@@ -12,3 +12,5 @@
 - Dynamically allocated
 - 60 GB
 - Inicie a máquina e selecione a .iso do Slitaz
+
+####Username no [Github](https://github.com/): H1rayama
